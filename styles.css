@@ -128,7 +128,7 @@
 .tiles {
   display: flex;
   justify-content: center;
-  padding: 30px;
+  padding: 10px;
 }
 
 .list {
@@ -137,7 +137,7 @@
   width: 300px;
   background-color: white;
   text-align: center;
-  margin: 15px;
+  margin: 10px;
   border-radius: 5px;
 }
 
