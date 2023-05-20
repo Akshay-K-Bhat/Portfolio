@@ -137,7 +137,7 @@
   width: 300px;
   background-color: white;
   text-align: center;
-  margin-left: 15px;
+  margin: 15px;
   border-radius: 5px;
 }
 
@@ -153,5 +153,9 @@
 
   .container2 {
     flex-wrap: wrap;
+  }
+
+  .tiles {
+     flex-wrap: wrap;
   }
 }
