@@ -112,7 +112,6 @@
 .projects{
   background-color: #0C134F;
   justify-content: center;
-  height: 350px;
 }
 
 .projects .head{
@@ -129,6 +128,7 @@
 .tiles {
   display: flex;
   justify-content: center;
+  padding: 30px;
 }
 
 .list {
