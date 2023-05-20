@@ -77,8 +77,9 @@
   margin: 5px;
 }
 
-
-
+.dp img {
+  border-radius: 180px;
+}
 
 .container2{
   display: flex;
